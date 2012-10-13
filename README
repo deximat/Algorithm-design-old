@@ -1,9 +1,9 @@
-Solutions to programming contest sites
+Solutions to progamming contest problems
 
 	I made section for COMPETITION tasks and training tasks which are done without presure...
 
 	Here I will contain tasks from:
-		-TopCoder ( as soon as I finish learning C/C++)
+		-TopCoder ( http://www.topcoder.com/tc )
 		-Code Forces ( http://www.codeforces.com/ )
 		-Timus Online Judge ( http://acm.timus.ru/ )
 		-Z-trening ( http://www.z-trening.com/ )
@@ -12,5 +12,5 @@ Solutions to programming contest sites
 		-COCI ( http://www.hsin.hr/coci/ )
 
 I am using this repository as my personal backup system for my codes, but if you can use it in any good, feel free to do so. 
-Almost all of my sources are written in PASCAL with a few exceptions. 
-As soon as I finish this years national competition I am turning to C.
+
+Codes are in PASCAL, C, C++, JAVA
